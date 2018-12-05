@@ -1,6 +1,1 @@
-echo "# taco-cloud" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Ngs-Zt/taco-cloud.git
-git push -u origin master
+Perform CRUD operation using R to a database
